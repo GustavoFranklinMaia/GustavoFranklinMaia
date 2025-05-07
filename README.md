@@ -32,5 +32,5 @@
 
 Work informations:
 
-- 👨🏻‍💻 I’m currently working on [Finstein GmbH](https://www.finstein.de/home)
+- 👨🏻‍💻 I’m currently working on [Wipro](https://www.wipro.com/)
 -->
